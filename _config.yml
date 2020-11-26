@@ -1,3 +1,5 @@
+name: Brandon's Web Resume
+markdown: kramdown
 theme: jekyll-theme-slate
 title: Welcome to Brandon's Homepage!
 description: Feel free to bookmark this for to use this Macros in your projects.
