@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Brandon Stowell, Prepared for the Future!
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Hank Quinlan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+	<h1>Hi there, I'm Brandon Stowell!</h1>
+	<p>I'm best known as a promising new IT nut from <em>This Github Page</em> This is fun. <a href="/about">Read more about my focus...</a></p>
 </div><!-- /.blurb -->
